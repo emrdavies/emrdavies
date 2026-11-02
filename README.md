@@ -1,6 +1,5 @@
 # about
 ```yaml
-Incoming post-bacc at NIEHS
 
 UMD graduate ('26)
 B.S. Cell Biology & Molecular Genetics
@@ -12,6 +11,8 @@ INTERESTS: computational biology, chemistry, and neuroscience
 
 Klauda Lab (1/2024 - 7/2025)
 Weitz Group (6/2025 - 1/2026)
+
+NIEHS Predictive Toxicology Branch (9/2026 - present)
 ```
 [Science Writing](https://emrdavies.journoportfolio.com/)
 
